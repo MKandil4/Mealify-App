@@ -1,4 +1,4 @@
-## 🚀 Mealify Restaurant Website (Kandil)
+## 🚀 Mealify Restaurant Website
 
 This is a modern Restaurant Landing Page built as a front-end practice project.
 The project focuses on building a clean food website layout, implementing responsive design, and creating engaging UI animations to enhance user experience.
